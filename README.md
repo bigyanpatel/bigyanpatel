@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/meet_bigyan20" target="blank"><img src="https://img.shields.io/twitter/follow/meet_bigyan20?logo=twitter&style=for-the-badge" alt="meet_bigyan20" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://bigyanpatel.vercel.app/)
-
 - 🌱 I’m currently learning **Backend Technologies - Node.js**
 
-- 👨‍💻 All of my projects are available at [https://bigyanpatel.vercel.app/](https://bigyanpatel.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bigyanpatel.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **bigyanpatel07769@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sfzen4cOuE2MuzFb3bSk3JmQAb48DkzO/view?usp=sharing](https://drive.google.com/file/d/1sfzen4cOuE2MuzFb3bSk3JmQAb48DkzO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sfzen4cOuE2MuzFb3bSk3JmQAb48DkzO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
