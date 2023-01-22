@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigyanpatel" alt="bigyanpatel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/meet_bigyan20" target="blank"><img src="https://img.shields.io/twitter/follow/meet_bigyan20?logo=twitter&style=for-the-badge" alt="meet_bigyan20" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Technologies - Node.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bigyanpatel.vercel.app/)
