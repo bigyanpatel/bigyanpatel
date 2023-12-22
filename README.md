@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Bigyan Darshan Patel</h1>
-<h3 align="center">Full Stack Developer at [Learnduke](https://learnduke.com)</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyanpatel&label=Profile%20views&color=0e75b6&style=flat" alt="bigyanpatel" /> </p>
 
