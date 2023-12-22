@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Bigyan Darshan Patel</h1>
-<h3 align="center">Web App Developer</h3>
+<h1 align="center">Hey there! 👋 I'm Bigyan Darshan Patel</h1>
+<h3 align="center">Full Stack Developer at [Learnduke](https://learnduke.com)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyanpatel&label=Profile%20views&color=0e75b6&style=flat" alt="bigyanpatel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigyanpatel" alt="bigyanpatel" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Technologies - Node.js**
+- 🔭 I'm a passionate Full Stack Developer, working at [Learnduke](https://learnduke.com), where I built an end-to-end community-based platform for teachers and students from scratch.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://bigyanpatel.vercel.app/)
+- 💼 At Learnduke, I led the development of a comprehensive platform, nurturing it from inception to a fully functional, community-driven ecosystem.
 
-- 💬 Ask me about **React, JavaScript**
+- 🌱 Currently, I'm exploring the intricacies of **TypeScript** and experimenting with advanced **animation techniques** to create even better user experiences.
 
-- 📫 How to reach me **bigyanpatel07769@gmail.com**
+- 💬 Let's discuss **Next.Js, React, JavaScript, Node, Express, MongoDb, or anything related to Web Development**!
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sfzen4cOuE2MuzFb3bSk3JmQAb48DkzO/view?usp=sharing)
+- 📫 You can reach me via email: **bigyanpatel07769@gmail.com**
+
+- 📄 Curious about my experiences? Check out my [Resume](https://drive.google.com/file/d/1sfzen4cOuE2MuzFb3bSk3JmQAb48DkzO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
